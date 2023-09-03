@@ -5,8 +5,11 @@ This is a prediction tool for predicting antimicrobial resistance in Chlamydia s
 To recreate this web app on your own computer, do the following.
 ## Create conda environment
 Firstly, we will create a conda environment called AMRPapp
-```bash conda create -n AMRPapp
+```bash
+conda create -n AMRPapp
 
-
+##Change directory to the AMR-Prediction-in-Chlamydia-strains:
+```bash
+cd path/to/AMR-Prediction-in-Chlamydia-strains/directory
 
 
